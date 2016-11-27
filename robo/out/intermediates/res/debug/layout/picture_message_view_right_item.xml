@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/bubble_layout_margin_vertical" >
+
+    <include layout="@layout/time_text_view_layout" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+        android:layout_marginRight="@dimen/bubble_layout_margin_side"
+        android:layout_marginTop="@dimen/bubble_layout_margin_vertical" >
+        
+        <include layout="@layout/round_loading_progress_bar" />
+
+        <include layout="@layout/right_alert_button" />
+
+        <include layout="@layout/read_recipt_layout" />
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+            android:layout_marginTop="@dimen/bubble_margin_top" >
+
+            <com.netease.nim.demo.common.ui.imageview.MsgThumbImageView
+                android:id="@+id/imageViewThumbnail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:contentDescription="@string/empty"
+                android:gravity="center"
+                android:padding="0dip"
+                android:scaleType="centerCrop" />
+
+            <include layout="@layout/zbra_loading_progress_bar_with_text" />
+        </FrameLayout>
+
+        <include layout="@layout/bubbly_head_shapeimageview_right" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/picture_message_view_right_item.xml -->

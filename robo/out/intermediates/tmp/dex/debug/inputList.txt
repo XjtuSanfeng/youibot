@@ -1,0 +1,13 @@
+D:\develop\nim\demo\out\intermediates\classes\debug
+D:\develop\nim\demo\out\intermediates\exploded-aar\nim\basesdk\unspecified\libs\audiorecord_1.0.3.jar
+D:\develop\nim\demo\out\intermediates\exploded-aar\nim\basesdk\unspecified\libs\sqlcipher.jar
+D:\develop\nim\demo\libs\universal-image-loader-1.9.1.jar
+D:\develop\nim\demo\libs\Android_Location_V1.3.1.jar
+D:\develop\nim\demo\libs\AMap_Services_V2.3.1.jar
+D:\develop\nim\demo\out\intermediates\exploded-aar\nim\basesdk\unspecified\libs\fastjson-1.1.34.android.jar
+D:\develop\nim\demo\out\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar
+D:\develop\nim\demo\libs\Android_2DMap_V2.4.0.jar
+D:\develop\nim\demo\out\intermediates\exploded-aar\nim\basesdk\unspecified\classes.jar
+D:\Android\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar
+D:\develop\nim\demo\out\intermediates\exploded-aar\nim\basesdk\unspecified\libs\netty-4.0.23-for-yx.final.jar
+D:\develop\nim\demo\libs\Android_3DMap_V2.4.0.jar

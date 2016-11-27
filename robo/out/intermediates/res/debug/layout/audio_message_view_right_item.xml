@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/bubble_layout_margin_vertical" >
+
+    <include layout="@layout/time_text_view_layout" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+        android:layout_marginRight="@dimen/bubble_layout_margin_side"
+        android:layout_marginTop="@dimen/bubble_layout_margin_vertical" >
+
+        <include layout="@layout/round_loading_progress_bar" />
+
+        <include layout="@layout/right_alert_button" />
+
+        <include layout="@layout/read_recipt_layout" />
+
+        <FrameLayout
+            android:id="@+id/buttonViewStartPlayAudio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+            android:layout_marginTop="@dimen/bubble_margin_top"
+            android:background="@drawable/bg_message_right_selector"
+            android:paddingRight="@dimen/bubble_padding_right" >
+
+            <TextView
+                android:id="@+id/textViewAudioLength"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/imageViewAudio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:contentDescription="@string/empty"
+                android:src="@drawable/audio_animation_list_right_3" />
+
+            <LinearLayout
+                android:id="@+id/layoutPlayAudio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|right"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/progressPlayAudio1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|right"
+                    android:background="@anim/audio_animation_list_right"
+                    android:contentDescription="@string/empty" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <include layout="@layout/bubbly_head_shapeimageview_right" />
+    </LinearLayout>
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/audio_message_view_right_item.xml -->

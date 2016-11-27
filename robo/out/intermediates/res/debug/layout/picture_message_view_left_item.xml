@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutListItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left"
+    android:orientation="vertical" >
+
+    <include layout="@layout/time_text_view_layout" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/bubble_layout_margin_vertical"
+        android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+        android:layout_marginRight="@dimen/bubble_layout_margin_side"
+        android:layout_marginTop="@dimen/bubble_layout_margin_vertical" >
+
+        <include layout="@layout/bubbly_head_shapeimageview_left" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <include layout="@layout/message_item_name_layout" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/bubble_margin_top"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/bubble_layout_margin_side" >
+
+                    <com.netease.nim.demo.common.ui.imageview.MsgThumbImageView
+                        android:id="@+id/imageViewThumbnail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:contentDescription="@string/empty"
+                        android:gravity="center"
+                        android:padding="0dip"
+                        android:scaleType="centerCrop" />
+
+                    <include layout="@layout/zbra_loading_progress_bar" />
+                </FrameLayout>
+
+                <include layout="@layout/left_alert_button" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/picture_message_view_left_item.xml -->

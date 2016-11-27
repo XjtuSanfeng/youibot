@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Android_2DMap_V2.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/robo/libs/Android_2DMap_V2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

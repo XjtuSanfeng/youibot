@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    style="@style/scroll_view"
+    android:fillViewport="true"
+    android:scrollbarStyle="outsideOverlay"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <com.netease.nim.demo.contact.ui.TeamInfoGridView
+            style="@style/grid_view"
+            android:id="@+id/team_business_card_grid"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/bussiness_card_gridview_bg"
+            android:gravity="center"
+            android:numColumns="4"
+            android:paddingBottom="25dip"
+            android:paddingLeft="12dip"
+            android:paddingRight="12dip"
+            android:paddingTop="16dip"
+            android:verticalSpacing="16dip">
+        </com.netease.nim.demo.contact.ui.TeamInfoGridView>
+
+        <include
+            android:id="@+id/settings_item_name"
+            layout="@layout/bottom_divider_item_title_detail"/>
+
+        <RelativeLayout
+            android:paddingTop="30dp"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/quit_discussion"
+                android:layout_alignParentBottom="true"
+                android:minHeight="50dp"
+                android:background="@drawable/team_logout_btn_selector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/quit_team"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_17"/>
+
+            <Button
+                android:id="@+id/create_discussion"
+                android:layout_alignParentBottom="true"
+                android:minHeight="50dp"
+                android:background="@drawable/team_create_btn_selector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/create_team"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_17"
+                android:visibility="gone"/>
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>
+<!-- From: file:/D:/develop/nim/robo/res/layout/team_info_activity.xml -->

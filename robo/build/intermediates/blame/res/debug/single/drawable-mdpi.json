@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_logo.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\drawable-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\action_bar_search_view_icon.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\drawable-mdpi\\action_bar_search_view_icon.png"
+    }
+]

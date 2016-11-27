@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netease.nim.demo.common.ui.imageview.HeadImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/imageViewHead"
+    android:layout_width="40dip"
+    android:layout_height="40dip"
+    android:layout_marginRight="@dimen/bubble_head_margin_horizontal" />
+<!-- From: file:/D:/develop/nim/robo/res/layout/bubbly_head_shapeimageview_left.xml -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="59dp"
+                android:background="@drawable/logo"
+                android:contentDescription="@string/empty" />
+
+            <com.netease.nim.demo.common.ui.textview.ClearableEditTextWithIcon
+                android:id="@+id/editUserid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="74dp"
+                android:background="@drawable/edittext_white_normal"
+                android:drawablePadding="15dp"
+                android:hint="@string/login_hint_account"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/color_white_66ffffff" />
+
+            <com.netease.nim.demo.common.ui.textview.ClearableEditTextWithIcon
+                android:id="@+id/editPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/edittext_white_normal"
+                android:drawablePadding="15dp"
+                android:hint="@string/login_hint_password"
+                android:inputType="textPassword"
+                android:longClickable="false"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/color_white_66ffffff" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/login_activity.xml -->

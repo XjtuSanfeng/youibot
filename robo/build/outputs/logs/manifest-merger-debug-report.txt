@@ -1,0 +1,804 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:2:1-388:12
+	package
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:3:5-35
+	android:versionName
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:6:5-32
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:5:5-29
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:17:22-70
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:21:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:25:22-71
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:30:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:34:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:35:5-71
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:35:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:36:5-75
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:36:22-72
+permission#com.netease.nim.robo.permission.RECEIVE_MSG
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:40:5-42:47
+	android:protectionLevel
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:41:9-67
+uses-permission#com.netease.nim.demo.permission.RECEIVE_MSG
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:45:22-80
+application
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:47:5-386:19
+MERGED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:9:5-119:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:design:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [youibot:uARTKit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uARTKit\unspecified\AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:51:9-41
+	android:allowBackup
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:49:9-35
+	android:icon
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:50:9-41
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:52:9-52
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:48:9-63
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:55:9-57:43
+	android:value
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:57:13-40
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:56:13-50
+meta-data#com.netease.nim.appKey
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:59:9-61:55
+	android:value
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:61:4-52
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:60:13-50
+uses-library#com.google.android.maps
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:63:9-65:40
+	android:required
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:64:13-51
+activity#com.youibot.docrobo.robo.main.activity.WelcomeActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:68:9-83:20
+	android:label
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:72:13-45
+	android:hardwareAccelerated
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:71:13-47
+	android:launchMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:73:13-43
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:76:13-52
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:70:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:75:13-65
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:69:13-82
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:77:13-82:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:78:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:80:27-74
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:81:17-89
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:81:27-86
+activity#com.youibot.docrobo.robo.main.activity.MainActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:86:9-93:64
+	android:hardwareAccelerated
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:89:13-47
+	android:launchMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:90:13-43
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:93:13-52
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:88:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:87:13-79
+activity#com.youibot.docrobo.robo.main.activity.MultiportActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:96:9-101:79
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:101:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:98:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:100:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:97:13-84
+activity#com.youibot.docrobo.robo.login.LoginActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:104:9-110:70
+	android:label
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:107:13-42
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:110:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:106:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:109:13-46
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:105:13-72
+activity#com.youibot.docrobo.robo.main.activity.AboutActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:113:9-119:75
+	android:label
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:116:13-42
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:119:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:115:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:118:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:114:13-80
+activity#com.youibot.docrobo.robo.main.activity.SettingsActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:121:9-126:63
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:126:13-60
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:123:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:125:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:122:13-83
+activity#com.youibot.docrobo.robo.main.activity.NoDisturbActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:128:9-133:75
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:133:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:130:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:132:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:129:13-84
+activity#com.youibot.docrobo.robo.contact.activity.AddFriendActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:135:9-140:75
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:140:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:137:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:139:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:136:13-87
+activity#com.youibot.docrobo.robo.contact.activity.UserProfileActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:142:9-147:75
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:147:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:144:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:146:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:143:13-89
+activity#com.youibot.docrobo.robo.contact.activity.UserProfileSettingActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:149:9-154:75
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:154:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:151:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:153:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:150:13-96
+activity#com.youibot.docrobo.robo.contact.activity.UserProfileEditItemActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:156:9-161:75
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:161:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:158:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:160:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:157:13-97
+activity#com.youibot.docrobo.robo.contact.activity.BlackListActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:163:9-168:75
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:168:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:165:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:167:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:164:13-87
+activity#com.youibot.docrobo.robo.file.browser.FileBrowserActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:171:9-177:75
+	android:label
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:174:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:177:13-72
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:173:13-48
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:176:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:172:13-85
+activity#com.youibot.docrobo.robo.main.activity.SystemMessageActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:179:9-184:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:184:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:181:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:183:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:180:13-88
+activity#com.youibot.docrobo.robo.main.activity.CustomNotificationActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:185:9-190:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:190:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:187:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:189:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:186:13-93
+activity#com.youibot.docrobo.robo.session.activity.MessageHistoryActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:191:9-196:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:196:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:193:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:195:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:192:13-92
+activity#com.youibot.docrobo.robo.session.activity.MessageInfoActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:197:9-202:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:202:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:199:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:201:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:198:13-89
+activity#com.youibot.docrobo.robo.team.activity.AdvancedTeamSearchActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:204:9-209:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:209:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:206:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:208:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:205:13-93
+activity#com.youibot.docrobo.robo.team.activity.AdvancedTeamJoinActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:211:9-216:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:216:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:213:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:215:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:212:13-91
+activity#com.youibot.docrobo.robo.main.activity.TeamListActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:218:9-223:67
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:223:13-64
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:220:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:222:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:219:13-83
+activity#com.youibot.docrobo.robo.main.activity.GlobalSearchActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:226:9-230:71
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:230:13-59
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:228:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:229:13-52
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:227:13-87
+activity#com.youibot.docrobo.robo.main.activity.GlobalSearchDetailActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:232:9-235:68
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:234:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:235:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:233:13-93
+activity#com.youibot.docrobo.robo.main.activity.GlobalSearchDetailActivity2
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:237:9-241:68
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:239:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:241:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:238:13-94
+activity#com.youibot.docrobo.robo.session.activity.WatchSnapChatPictureActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:244:9-247:59
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:246:13-51
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:247:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:245:13-98
+activity#com.youibot.docrobo.robo.location.activity.LocationAmapActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:249:9-254:59
+	android:label
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:252:13-49
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:251:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:254:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:250:13-91
+activity#com.youibot.docrobo.robo.location.activity.NavigationAmapActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:255:9-260:59
+	android:label
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:258:13-54
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:257:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:260:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:256:13-93
+activity#com.youibot.docrobo.robo.avchat.activity.AVChatActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:263:9-268:63
+	android:launchMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:265:13-48
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:268:13-60
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:267:13-51
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:264:13-83
+activity#com.youibot.docrobo.robo.rts.activity.RTSActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:271:9-276:63
+	android:launchMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:273:13-48
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:276:13-60
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:275:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:272:13-77
+activity#com.youibot.docrobo.robo.session.search.SearchMessageActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:279:9-284:72
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:284:13-69
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:281:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:283:13-52
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:280:13-89
+activity#com.youibot.docrobo.robo.session.search.DisplayMessageActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:286:9-291:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:291:13-67
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:288:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:290:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:287:13-90
+activity#com.youibot.docrobo.robo.chatroom.activity.ChatRoomActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:294:9-298:70
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:298:13-67
+	android:theme
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:297:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:295:13-87
+activity#com.youibot.docrobo.robo.avchat.activity.AVChatSettingsActivity
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:301:9-302:15
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:301:19-97
+service#com.netease.nimlib.service.NimService
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:305:9-307:39
+	android:process
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:307:13-36
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:306:13-65
+service#com.netease.nimlib.service.NimService$Aux
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:310:9-312:39
+	android:process
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:312:13-36
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:311:13-69
+service#com.netease.nimlib.job.NIMJobService
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:315:9-318:43
+	android:process
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:318:18-41
+	android:exported
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:317:18-41
+	android:permission
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:316:18-74
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:315:18-69
+receiver#com.netease.nimlib.service.NimReceiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:321:9-329:20
+	android:process
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:324:13-36
+	android:exported
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:323:13-37
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:322:13-66
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:325:13-328:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:326:17-79
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:326:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:327:17-79
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:327:25-76
+receiver#com.netease.nimlib.service.ResponseReceiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:332:9-80
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:332:19-77
+receiver#com.youibot.docrobo.robo.receiver.CustomNotificationReceiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:336:9-343:20
+	android:enabled
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:338:13-35
+	android:exported
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:339:13-37
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:337:13-88
+intent-filter#com.netease.nim.demo.ACTION.RECEIVE_CUSTOM_NOTIFICATION
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:340:13-342:29
+action#com.netease.nim.demo.ACTION.RECEIVE_CUSTOM_NOTIFICATION
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:341:17-98
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:341:25-95
+receiver#com.netease.nimlib.receiver.RTSBroadcastReceiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:346:9-353:20
+	android:enabled
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:348:13-35
+	android:exported
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:349:13-37
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:347:13-76
+intent-filter#com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:350:13-352:29
+action#com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:351:17-95
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:351:25-92
+receiver#com.netease.nimlib.receiver.IncomingCallReceiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:356:9-360:20
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:356:19-82
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:357:13-359:29
+action#android.intent.action.PHONE_STATE
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:358:17-76
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:358:25-73
+service#com.netease.cosine.core.CosineService
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:363:9-365:49
+	android:process
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:365:13-38
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:364:13-65
+receiver#com.netease.cosine.target.CosineReceiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:367:9-370:50
+	android:process
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:370:13-38
+	android:exported
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:369:13-36
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:368:13-68
+meta-data#com.netease.cosine.target
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:373:9-375:32
+	android:value
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:375:13-29
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:374:13-53
+meta-data#com.netease.cosine.target.receiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:376:9-378:70
+	android:value
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:378:13-67
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:377:13-62
+receiver#com.youibot.docrobo.robo.uart.CMDReceiver
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:380:9-384:20
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:380:19-75
+intent-filter#com.iflytek.uart.helper.action.cmd
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:381:13-383:29
+action#com.iflytek.uart.helper.action.cmd
+ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:382:17-77
+	android:name
+		ADDED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml:382:25-74
+uses-sdk
+INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [youibot:uARTKit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uARTKit\unspecified\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\youibot\robo\AndroidManifest.xml
+activity#com.netease.nim.uikit.session.activity.P2PMessageActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:16:9-20:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:20:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:18:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:17:13-85
+activity#com.netease.nim.uikit.session.activity.TeamMessageActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:21:9-25:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:25:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:23:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:22:13-86
+activity#com.netease.nim.uikit.team.activity.NormalTeamInfoActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:28:9-32:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:32:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:30:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:29:13-86
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamInfoActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:33:9-37:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:37:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:35:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:34:13-88
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamMemberActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:38:9-42:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:42:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:40:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:39:13-90
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamAnnounceActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:43:9-47:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:47:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:45:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:44:13-92
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamMemberInfoActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:48:9-52:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:52:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:50:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:49:13-94
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamNicknameActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:53:9-57:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:57:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:55:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:54:13-92
+activity#com.netease.nim.uikit.team.activity.AdvancedTeamCreateAnnounceActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:58:9-62:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:62:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:60:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:59:13-98
+activity#com.netease.nim.uikit.team.activity.TeamPropertySettingActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:63:9-67:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:67:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:65:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:66:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:64:13-91
+activity#com.netease.nim.uikit.contact_selector.activity.ContactSelectActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:70:9-75:67
+	android:label
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:73:13-53
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:75:13-64
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:72:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:71:13-97
+activity#com.netease.nim.uikit.common.media.picker.activity.PickImageActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:78:9-80:59
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:80:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:79:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.CropImageActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:81:9-83:59
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:82:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:84:9-86:59
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:86:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:85:13-98
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:87:9-89:59
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:89:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:88:13-105
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromLocalActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:90:9-94:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:94:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:92:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:93:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:91:13-108
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:95:9-100:70
+	android:label
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:98:13-53
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:100:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:97:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:99:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:96:13-109
+activity#com.netease.nim.uikit.session.activity.CaptureVideoActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:103:9-107:70
+	android:windowSoftInputMode
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:107:13-67
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:105:13-63
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:106:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:104:13-87
+activity#com.netease.nim.uikit.session.activity.WatchVideoActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:108:9-112:48
+	android:label
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:111:13-47
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:110:13-74
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:112:13-45
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:109:13-85
+activity#com.netease.nim.uikit.session.activity.WatchMessagePictureActivity
+ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:115:9-118:59
+	android:configChanges
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:117:13-51
+	android:theme
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:118:13-56
+	android:name
+		ADDED from [youibot:uikit:unspecified] D:\AndroidWorkspace\youibot\robo\build\intermediates\exploded-aar\youibot\uikit\unspecified\AndroidManifest.xml:116:13-94

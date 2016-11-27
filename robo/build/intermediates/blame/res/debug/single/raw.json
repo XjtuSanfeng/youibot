@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\youibot\\uikit\\unspecified\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\raw\\avchat_connecting.mp3"
+    }
+]

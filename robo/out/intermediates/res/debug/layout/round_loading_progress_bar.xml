@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/msg_progressBar"
+    android:layout_width="20dip"
+    android:layout_height="20dip"
+    android:layout_gravity="center"
+    android:indeterminate="true"
+    android:indeterminateDrawable="@drawable/progress_small_white" />
+<!-- From: file:/D:/develop/nim/robo/res/layout/round_loading_progress_bar.xml -->

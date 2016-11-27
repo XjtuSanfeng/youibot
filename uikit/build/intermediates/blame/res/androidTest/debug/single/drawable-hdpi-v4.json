@@ -52,24 +52,24 @@
         "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_image_default.png"
     },
     {
-        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png",
-        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png"
+        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png"
     },
     {
         "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png",
         "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png"
     },
     {
-        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png",
-        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png"
-    },
-    {
-        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png",
-        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png"
+        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png"
     },
     {
         "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png",
         "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png"
     },
     {
         "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",

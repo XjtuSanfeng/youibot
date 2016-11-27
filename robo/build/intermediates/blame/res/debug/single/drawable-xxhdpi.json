@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_logo.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\drawable-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stat_notify_msg.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\drawable-xxhdpi\\ic_stat_notify_msg.png"
+    }
+]

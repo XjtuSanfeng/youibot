@@ -68,12 +68,12 @@
         "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\nim_picker_photofolder_item.xml",
-        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_photofolder_item.xml"
-    },
-    {
         "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\nim_picker_photofolder_item.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_photofolder_item.xml"
     },
     {
         "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\nim_emoji_layout.xml",

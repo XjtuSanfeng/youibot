@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/bubble_layout_margin_vertical"
+    android:gravity="right"
+    android:orientation="vertical" >
+
+    <include layout="@layout/time_text_view_layout" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+        android:layout_marginRight="@dimen/bubble_layout_margin_side"
+        android:layout_marginTop="@dimen/bubble_layout_margin_vertical" >
+
+        <include layout="@layout/round_loading_progress_bar" />
+
+        <include layout="@layout/right_alert_button" />
+
+        <include layout="@layout/read_recipt_layout" />
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bubble_layout_margin_side" >
+
+            <com.netease.nim.demo.common.ui.imageview.MsgThumbImageView
+                android:id="@+id/asynMapLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/message_right_blue_bg"
+                android:gravity="center"
+                android:padding="0dip" />
+
+            <TextView
+                android:id="@+id/address"
+                android:layout_width="fill_parent"
+                android:layout_height="35dip"
+                android:layout_gravity="bottom|center_horizontal"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:lineSpacingExtra="1dip"
+                android:paddingBottom="2dip"
+                android:paddingLeft="7dip"
+                android:paddingRight="7dip"
+                android:paddingTop="2dip"
+                android:singleLine="true"
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/imageViewMask"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:gravity="center" />
+
+            <include layout="@layout/zbra_loading_progress_bar" />
+        </FrameLayout>
+
+        <include layout="@layout/bubbly_head_shapeimageview_right" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/location_message_view_right_item.xml -->

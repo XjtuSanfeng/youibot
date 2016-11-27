@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left"
+    android:orientation="vertical" >
+
+    <include layout="@layout/time_text_view_layout" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/bubble_layout_margin_vertical"
+        android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+        android:layout_marginRight="@dimen/bubble_layout_margin_side"
+        android:layout_marginTop="@dimen/bubble_layout_margin_vertical" >
+
+        <include layout="@layout/bubbly_head_shapeimageview_left" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <include layout="@layout/message_item_name_layout" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/bubble_margin_top"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/textViewTextMessage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="@dimen/bubble_layout_margin_side"
+                    android:autoLink="phone|email"
+                    android:background="@drawable/bg_message_left_text_selector"
+                    android:gravity="center_vertical|left"
+                    android:includeFontPadding="false"
+                    android:lineSpacingExtra="3dip"
+                    android:maxWidth="@dimen/max_bubble_width"
+                    android:textColor="@color/color_black_333333"
+                    android:textSize="16sp" />
+
+                <include layout="@layout/left_alert_button" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textViewSmsTip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dip"
+                android:gravity="left"
+                android:textColor="@color/action_bar_tittle_color_555555"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/text_message_view_left_item.xml -->

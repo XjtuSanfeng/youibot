@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/bubble_layout_margin_vertical" >
+
+    <include layout="@layout/time_text_view_layout" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+        android:layout_marginRight="@dimen/bubble_layout_margin_side"
+        android:layout_marginTop="@dimen/bubble_layout_margin_vertical" >
+
+        <include layout="@layout/round_loading_progress_bar" />
+
+        <include layout="@layout/right_alert_button" />
+
+        <include layout="@layout/read_recipt_layout" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bubble_layout_margin_side"
+            android:layout_marginTop="@dimen/bubble_margin_top"
+            android:orientation="vertical" >
+
+            <include layout="@layout/message_item_name_layout" />
+
+            <TextView
+                android:id="@+id/textViewTextMessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:autoLink="phone|email"
+                android:background="@drawable/bg_message_right_text_selector"
+                android:gravity="center_vertical|left"
+                android:includeFontPadding="false"
+                android:lineSpacingExtra="3dip"
+                android:maxWidth="@dimen/max_text_bubble_width"
+                android:minWidth="@dimen/min_bubble_width"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <include layout="@layout/bubbly_head_shapeimageview_right" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/text_message_view_right_item.xml -->

@@ -28,20 +28,20 @@
         "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_cameras.png"
     },
     {
-        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\nim_record_start.png",
-        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_record_start.png"
-    },
-    {
-        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png",
-        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png"
+        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\nim_record_start.png",
+        "source": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_record_start.png"
     },
     {
         "merged": "D:\\AndroidWorkspace\\youibot\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\nim_new_message_notify.png",

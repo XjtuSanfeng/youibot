@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\menu\\rts_activity_menu.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\menu\\rts_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_menu.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\menu\\global_search_menu.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\menu\\global_search_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\menu\\message_activity_more_menu.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\menu\\message_activity_more_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\menu\\contacts_search_menu.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\youibot\\uikit\\unspecified\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\menu\\custom_notification_activity_menu.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\menu\\custom_notification_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\menu\\notification_menu.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\menu\\notification_menu.xml"
+    }
+]

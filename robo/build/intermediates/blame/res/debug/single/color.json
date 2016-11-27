@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\skin_light_actionbar_underline_color.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\color\\skin_light_actionbar_underline_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\skin_global_bg_color.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\color\\skin_global_bg_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\skin_page_tab_underline_color.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\color\\skin_page_tab_underline_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\color_picker_preview_selector.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\youibot\\uikit\\unspecified\\res\\color\\color_picker_preview_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\skin_light_actionbar_bg_color.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\res\\color\\skin_light_actionbar_bg_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\res\\merged\\debug\\color\\color_green_text_view_selector.xml",
+        "source": "D:\\AndroidWorkspace\\youibot\\robo\\build\\intermediates\\exploded-aar\\youibot\\uikit\\unspecified\\res\\color\\color_green_text_view_selector.xml"
+    }
+]

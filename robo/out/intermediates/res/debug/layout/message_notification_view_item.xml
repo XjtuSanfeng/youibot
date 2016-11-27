@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <include layout="@layout/time_text_view_layout" />
+
+    <TextView
+        android:id="@+id/textViewNotification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/message_bubble_basic_margin"
+        android:layout_marginLeft="7dip"
+        android:layout_marginRight="7dip"
+        android:layout_marginTop="@dimen/message_bubble_basic_margin"
+        android:background="@drawable/bg_message_tip"
+        android:gravity="center"
+        android:paddingLeft="7dip"
+        android:paddingRight="7dip"
+        android:textColor="#ffffff"
+        android:textSize="12sp" />
+
+</LinearLayout><!-- From: file:/D:/develop/nim/robo/res/layout/message_notification_view_item.xml -->
