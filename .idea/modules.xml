@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/robo/robo.iml" filepath="$PROJECT_DIR$/robo/robo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uARTKit/uARTKit.iml" filepath="$PROJECT_DIR$/uARTKit/uARTKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uikit/uikit.iml" filepath="$PROJECT_DIR$/uikit/uikit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youibot.iml" filepath="$PROJECT_DIR$/youibot.iml" />
+    </modules>
+  </component>
+</project>
